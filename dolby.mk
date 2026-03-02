@@ -99,9 +99,9 @@ PRODUCT_VENDOR_PROPERTIES += \
 PRODUCT_PACKAGES += \
     RemovePackagesDolby
 
-# DSP Volume Synchronizer
+# Dolby manager
 PRODUCT_PACKAGES += \
-    DSPVolumeSynchronizer
+    LunarisDolby
 
 # Dolby Proprietary blobs
 PRODUCT_COPY_FILES += \
